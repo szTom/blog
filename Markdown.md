@@ -1,8 +1,8 @@
 # 1. Markdown {1}
 
-[https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)
-[https://zh.wikipedia.org/wiki/Markdown](https://zh.wikipedia.org/wiki/Markdown)
-Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
+[https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown)<br>
+[https://zh.wikipedia.org/wiki/Markdown](https://zh.wikipedia.org/wiki/Markdown)<br>
+Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。<br>
 由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，当前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。如GitHub、Reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge、简书等，甚至还能被使用来撰写电子书。
 
 # 2. 标准化 {2}
@@ -21,7 +21,7 @@ Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语�
 ## 2.3 Markdown Extra {2.3}
 
 Markdown Extra是一种轻量级标记语言，基于在PHP(最初),Python和Ruby中实现的Markdown。它添加了普通Markdown语法不具备的功能。
-内容管理系统支持Markdown Extra，例如Drupal, TYPO3, MediaWiki。
+内容管理系统支持Markdown Extra，例如Drupal, TYPO3, MediaWiki。<br>
 它为Markdown添加了以下功能: HTML块内的markdown标记; 具有id / class属性的元素; 围栏代码块; 表格; 定义清单; 脚注; 缩写; 
 
 # 3. Markdown使用 {3}
@@ -108,11 +108,11 @@ Markdown相对html等标记语言，确是简洁，但简单了解下来也仅�
 
 # 4. See Also {4} 
 选择正确的Markdown解析器
-https://css-tricks.com/choosing-right-markdown-parser/
-如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。
-https://github.com/markdown/markdown.github.com/wiki/Implementations
+https://css-tricks.com/choosing-right-markdown-parser/<br>
+如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。<br>
+https://github.com/markdown/markdown.github.com/wiki/Implementations<br>
 
-What are the main rendering differences between Markdown and CommonMark?
+What are the main rendering differences between Markdown and CommonMark?<br>
 https://help.apiary.io/faq/commonmark/
 
 https://en.wikipedia.org/wiki/List_of_document_markup_languages
@@ -125,13 +125,4 @@ https://en.wikipedia.org/wiki/Lightweight_software
 https://en.wikipedia.org/wiki/Wiki_markup
 https://en.wikipedia.org/wiki/Help:Wikitext
 
-https://sspai.com/post/55786
-个人博客的方案推荐，你只负责编写
-docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。
-https://docsify.js.org/#/zh-cn/themes
-https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css
-
-10分钟让你的站点也支持Markdown
-https://blog.csdn.net/github_36700243/article/details/62430414
-https://github.com/showdownjs/showdown
 
