@@ -107,29 +107,29 @@ Markdown相对html等标记语言，确是简洁，但简单了解下来也仅�
 在没有表格，不需要目录的情况下，还是很方便的。Linux下很多图形化的文档编辑器都支持md格式，就是说默认情况下保存问*.md文件，就能在写文档的同时清晰的看到标题，列表等,使用默认的颜色区分来开。
 
 # 4	See Also {4} 
-选择正确的Markdown解析器 
-https://css-tricks.com/choosing-right-markdown-parser/ 
-如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。 
-https://github.com/markdown/markdown.github.com/wiki/Implementations 
+选择正确的Markdown解析器 <br />
+https://css-tricks.com/choosing-right-markdown-parser/ <br />
+如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。 <br />
+https://github.com/markdown/markdown.github.com/wiki/Implementations <br />
 
-What are the main rendering differences between Markdown and CommonMark? 
-https://help.apiary.io/faq/commonmark/ 
+What are the main rendering differences between Markdown and CommonMark? <br />
+https://help.apiary.io/faq/commonmark/ <br />
 
-https://en.wikipedia.org/wiki/List_of_document_markup_languages 
-https://zh.wikipedia.org/wiki/文档标记语言比较 
-https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages 
-https://en.wikipedia.org/wiki/Lightweight_markup_language 
-https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_lightweight_markup_language_syntax 
-https://en.wikipedia.org/wiki/Lightweight_programming_language 
-https://en.wikipedia.org/wiki/Lightweight_software 
-https://en.wikipedia.org/wiki/Wiki_markup 
-https://en.wikipedia.org/wiki/Help:Wikitext 
+https://en.wikipedia.org/wiki/List_of_document_markup_languages <br />
+https://zh.wikipedia.org/wiki/文档标记语言比较 <br />
+https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages <br />
+https://en.wikipedia.org/wiki/Lightweight_markup_language <br />
+https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_lightweight_markup_language_syntax <br />
+https://en.wikipedia.org/wiki/Lightweight_programming_language <br />
+https://en.wikipedia.org/wiki/Lightweight_software <br />
+https://en.wikipedia.org/wiki/Wiki_markup <br />
+https://en.wikipedia.org/wiki/Help:Wikitext <br />
 
 https://sspai.com/post/55786 
-个人博客的方案推荐，你只负责编写 
-docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。 
-https://docsify.js.org/#/zh-cn/themes 
-https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css 
+个人博客的方案推荐，你只负责编写 <br />
+docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。 <br />
+https://docsify.js.org/#/zh-cn/themes <br />
+https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css <br />
 
 10分钟让你的站点也支持Markdown 
 https://blog.csdn.net/github_36700243/article/details/62430414 
