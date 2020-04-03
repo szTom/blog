@@ -1,8 +1,8 @@
 # 1	Markdown {1}
 
-https://en.wikipedia.org/wiki/Markdown
-https://zh.wikipedia.org/wiki/Markdown
-Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
+https://en.wikipedia.org/wiki/Markdown<br />
+https://zh.wikipedia.org/wiki/Markdown<br />
+Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。<br />
 由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，当前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。如GitHub、Reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge、简书等，甚至还能被使用来撰写电子书。
 
 # 2	标准化 {2}
@@ -26,11 +26,11 @@ Markdown Extra是一种轻量级标记语言，基于在PHP(最初),Python和Rub
 
 # 3	Markdown使用 {3}
 ## 3.1	Markdown 入门 {3.1}
-https://markdown.bootcss.com/getting-started/
+https://markdown.bootcss.com/getting-started/<br />
 Markdown 语法的首要设计目标是尽可能易读。基于这个目标，Markdown 格式的文档能够以纯文本形式原样发布，而不会看起来像被填满了标签或格式化指令。
 
 ## 3.2	Markdown语法 {3.2}
-[Markdown 速查表](https://markdown.bootcss.com/cheat-sheet/)
+[Markdown 速查表](https://markdown.bootcss.com/cheat-sheet/)<br />
 Markdown 速查表提供了所有 Markdown 语法元素的快速参考。但是此速查表无法覆盖所有用法，因此，如果你需要某些语法元素的更多信息，请参阅我们的: [基本语法](https://markdown.bootcss.com/basic-syntax/); [扩展语法](https://markdown.bootcss.com/extended-syntax/)
 
 ## 3.3	推荐的一些Markdown文档创作应用程序: {3.3}
@@ -83,55 +83,55 @@ https://markdown.bootcss.com/tools/
  | Ulysses | Ulysses是适用于macOS和iOS设备的流行编写应用程序。 | Ulysses is a popular writing application for macOS and iOS devices. | 
 
 ## 3.5	Markdown 更多教程 {3.5}
-https://www.runoob.com/markdown/md-tutorial.html
+https://www.runoob.com/markdown/md-tutorial.html<br />
 本教程将使用 Typora 编辑器来讲解 Markdown 的语法，Typora 支持 MacOS 、Windows、Linux 平台，且包含多种主题，编辑后直接渲染出效果。
-支持导出HTML、PDF、Word、图片等多种类型文件。
-Typora 官网：https://typora.io/
-你也可以使用我们的在线编辑器来测试：https://c.runoob.com/front-end/712
+支持导出HTML、PDF、Word、图片等多种类型文件。<br />
+Typora 官网：https://typora.io/<br />
+你也可以使用我们的在线编辑器来测试：https://c.runoob.com/front-end/712<br />
 
-https://www.markdownguide.org/
-https://github.com/showdownjs/showdown
-http://demo.showdownjs.com/
+https://www.markdownguide.org/<br />
+https://github.com/showdownjs/showdown<br />
+http://demo.showdownjs.com/<br />
 
 ## 3.6	cnblogs支持markdown {3.6} 
-https://www.cnblogs.com/cmt/p/markdown.html
-更新：2014年7月22日发布了新版markdown功能，详见新版markdown功能发布！支持github flavored markdown！
-https://www.cnblogs.com/cmt/p/markdown_github.html
-markdown语法：Markdown Cheatsheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://www.cnblogs.com/cmt/p/markdown.html<br />
+更新：2014年7月22日发布了新版markdown功能，详见新版markdown功能发布！支持github flavored markdown！<br />
+https://www.cnblogs.com/cmt/p/markdown_github.html<br />
+markdown语法：Markdown Cheatsheet<br />
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet<br />
 
 ## 3.7	小结 {3.7} 
-Markdown相对html等标记语言，确是简洁，但简单了解下来也仅适合书写简单的介绍，没有表格，目录的短文。
-扩展语法里有表格，也可以这是左右对齐等；也有标题的ids，但是使用起来反而不如html方便啊。
-对这种轻量级的语言也仅适合轻量级的应用。github使用pages页面，就是个介绍页面。
+Markdown相对html等标记语言，确是简洁，但简单了解下来也仅适合书写简单的介绍，没有表格，目录的短文。<br />
+扩展语法里有表格，也可以这是左右对齐等；也有标题的ids，但是使用起来反而不如html方便啊。<br />
+对这种轻量级的语言也仅适合轻量级的应用。github使用pages页面，就是个介绍页面。<br />
 在没有表格，不需要目录的情况下，还是很方便的。Linux下很多图形化的文档编辑器都支持md格式，就是说默认情况下保存问*.md文件，就能在写文档的同时清晰的看到标题，列表等,使用默认的颜色区分来开。
 
 # 4	See Also {4} 
-选择正确的Markdown解析器
-https://css-tricks.com/choosing-right-markdown-parser/
-如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。
-https://github.com/markdown/markdown.github.com/wiki/Implementations
+选择正确的Markdown解析器 
+https://css-tricks.com/choosing-right-markdown-parser/ 
+如果您要选择要使用的版本（或您要在网络产品上提供给用户的版本），则必须了解要使用的版本，因为一旦选择并有内容就很难切换那里取决于那些功能。 
+https://github.com/markdown/markdown.github.com/wiki/Implementations 
 
-What are the main rendering differences between Markdown and CommonMark?
-https://help.apiary.io/faq/commonmark/
+What are the main rendering differences between Markdown and CommonMark? 
+https://help.apiary.io/faq/commonmark/ 
 
-https://en.wikipedia.org/wiki/List_of_document_markup_languages
-https://zh.wikipedia.org/wiki/文档标记语言比较
-https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages
-https://en.wikipedia.org/wiki/Lightweight_markup_language
-https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_lightweight_markup_language_syntax
-https://en.wikipedia.org/wiki/Lightweight_programming_language
-https://en.wikipedia.org/wiki/Lightweight_software
-https://en.wikipedia.org/wiki/Wiki_markup
-https://en.wikipedia.org/wiki/Help:Wikitext
+https://en.wikipedia.org/wiki/List_of_document_markup_languages 
+https://zh.wikipedia.org/wiki/文档标记语言比较 
+https://en.wikipedia.org/wiki/Comparison_of_document-markup_languages 
+https://en.wikipedia.org/wiki/Lightweight_markup_language 
+https://en.wikipedia.org/wiki/Lightweight_markup_language#Comparison_of_lightweight_markup_language_syntax 
+https://en.wikipedia.org/wiki/Lightweight_programming_language 
+https://en.wikipedia.org/wiki/Lightweight_software 
+https://en.wikipedia.org/wiki/Wiki_markup 
+https://en.wikipedia.org/wiki/Help:Wikitext 
 
-https://sspai.com/post/55786
-个人博客的方案推荐，你只负责编写
-docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。
-https://docsify.js.org/#/zh-cn/themes
-https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css
+https://sspai.com/post/55786 
+个人博客的方案推荐，你只负责编写 
+docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。 
+https://docsify.js.org/#/zh-cn/themes 
+https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css 
 
-10分钟让你的站点也支持Markdown
-https://blog.csdn.net/github_36700243/article/details/62430414
-https://github.com/showdownjs/showdown
+10分钟让你的站点也支持Markdown 
+https://blog.csdn.net/github_36700243/article/details/62430414 
+https://github.com/showdownjs/showdown 
 
