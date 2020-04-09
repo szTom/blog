@@ -14,7 +14,7 @@
 
 基本语法
 # 2  class
-https://docs.python.org/zh-cn/3/tutorial/classes.html
+https://docs.python.org/zh-cn/3/tutorial/classes.html   
 https://www.runoob.com/python/python-object.html
 
 ```
